@@ -333,7 +333,7 @@ h1,h2,h3,h4,h5,h6 {
 
 /* HERO STYLES */
 .full-hero {
-  background-color: #c7dbfc;
+  background-color: #000;
   background-size: cover;
   box-sizing: border-box;
   height: 90vh;
@@ -348,7 +348,7 @@ h1,h2,h3,h4,h5,h6 {
   transform: translate(-50%, 0);
 }
 .hero-home {
-  background-image: url(/images/855-brannan-st.jpg);
+  /* background-image: url(/images/855-brannan-st.jpg); */
   background-position: center;
 }
 .hero-content {

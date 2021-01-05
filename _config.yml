@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: My \#hackwith purpose blog 🌈
+title: \#hackwith movement for Z 🌈
 email: masa@hackwith.org
 description: >- # this means to ignore newlines until "baseurl:"
   DYI life hack app tutorials, today’s open-source projects, tech staff, and more!!
